@@ -1,0 +1,15 @@
+/* index.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(133deg, rgba(2, 0, 36, 1) 0%, rgba(11, 11, 130, 1) 35%, rgba(128, 0, 255, 1) 100%);
+    font-family: Arial, sans-serif;
+    background-size: cover;
+}
